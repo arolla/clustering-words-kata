@@ -5,6 +5,7 @@ A small, text-only kata to practice clustering related words as a way to suggest
 
 # The word list
 
+```text
 lead
 vehicle
 stolen-cards
@@ -34,6 +35,7 @@ acceptance-form
 VIP-status
 listed-price
 catalog
+```
 
 
 # Steps (aka your task, ideally for small groups, ideally on a shared whiteboard)
